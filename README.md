@@ -1,1 +1,3 @@
-# -Data-acquisition-NLP
+# Data-acquisition-NLP
+#installation
+pip install textstat
